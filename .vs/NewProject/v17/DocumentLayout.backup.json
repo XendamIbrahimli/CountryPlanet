@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C22C94-A332-4964-8AAE-9FFAB2BFE9EE}|NewProject\\NewProject.csproj|c:\\users\\ll novbe\\source\\repos\\newproject\\newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C22C94-A332-4964-8AAE-9FFAB2BFE9EE}|NewProject\\NewProject.csproj|solutionrelative:newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|c:\\users\\ll novbe\\source\\repos\\newproject\\core\\databs\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|solutionrelative:core\\databs\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|c:\\users\\ll novbe\\source\\repos\\newproject\\core\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|solutionrelative:core\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|c:\\users\\ll novbe\\source\\repos\\newproject\\core\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|solutionrelative:core\\models\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|c:\\users\\ll novbe\\source\\repos\\newproject\\core\\enums\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB429BB-AA1B-4175-8FEB-1E689D1F8300}|Core\\Core.csproj|solutionrelative:core\\enums\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\DataBS\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\DataBS\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\DataBS\\AppDbContext.cs",
+              "RelativeToolTip": "Core\\DataBS\\AppDbContext.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAwwKsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:04:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Enums\\Region.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\Region.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Enums\\Region.cs",
+              "RelativeToolTip": "Core\\Enums\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:03:22.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Models\\Country.cs",
+              "RelativeToolTip": "Core\\Models\\Country.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:02:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Models\\Planet.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Planet.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\Core\\Models\\Planet.cs",
+              "RelativeToolTip": "Core\\Models\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:02:42.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\NewProject\\Program.cs",
+              "RelativeDocumentMoniker": "NewProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ll novbe\\source\\repos\\NewProject\\NewProject\\Program.cs",
+              "RelativeToolTip": "NewProject\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:01:00.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
